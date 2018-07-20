@@ -3,9 +3,16 @@
     class calculator
     {
 	    	/* 
-	    		For Task 1 ,Task 2 ,Task 3
+	    		For Task 1 ,Task 2 ,Task 3,Task 4, Task 5, Task 6,Task 7
+	    		 
+	    		Note : Please note for all the task i have made only 1 file to achieve code reusblity
+
+	    		Github repositiries:   https://github.com/omi9404/omprakashAnshSyatem
+
 				Below two functions get parameter as an array performed ternary operations.
+
 				Also at ternary operations passed parameter is separated by comma(,) and uses array sum.
+
 				After that matched result is returned to user.
 	    	*/
 	    	function sum($param)
